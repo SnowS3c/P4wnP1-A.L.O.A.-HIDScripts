@@ -1,0 +1,24 @@
+layout('es');
+press("GUI");
+delay(500);
+type("windows security")
+delay(2500);
+press("ENTER");
+delay(600);
+press("ENTER");
+delay(200);
+press("TAB");
+delay(200);
+press("TAB");
+delay(200);
+press("TAB");
+delay(200);
+press("TAB");
+delay(200);
+press("ENTER");
+delay(200);
+press("SPACE");
+delay(500);
+press("ALT s");
+delay(500);
+press("ALT F4");
